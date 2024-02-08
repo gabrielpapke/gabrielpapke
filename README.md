@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh6N2NldXR2bnEybDh2c21reDlteWE5b3hiMWs4dTZ6OWd3emszciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 <br><br>
   
-- 🎯 I'm a **Senior Front-end Developer**, my focus is on web development with Javascript.
+- 🎯 I'm a **Senior Front-end Developer**.
 - 📚 I'm graduated in Computer Science.
 - 🏢 I'm currently working at <a href="https://www.gft.com/">GFT Group</a>, a multinational company.
 - 🌱 I’m always studying about technology.
